@@ -28,6 +28,7 @@ body{
 }
 .first-section h1{
     font-size: 50px;
+    margin: 0;
 }
 .first-section{
     width: 40%;
@@ -45,12 +46,13 @@ body{
     text-decoration: none;
    border-radius: 5px;
     padding: 10px 50px 10px 50px;
-    background-color: rgb(201, 11, 11);
+    background-color: rgb(251, 112, 98);
     color: white;
 }
 
 .heading{
 text-align: center;
+padding-bottom: 34px;
 }
 
 .project-desgine{
@@ -78,10 +80,11 @@ text-align: center;
 }
 
 #project{
-    height: 700px;
-    background-color: rgb(226, 222, 222);
+    height: 600px;
+    background-color: rgb(248, 249, 252);
     display: block;
     clear: both;
+    padding-top: 60px;
 }
 
 #inquiry{
@@ -113,7 +116,7 @@ text-align: center;
     text-decoration: none;
     border-radius: 5px;
     padding: 10px 50px 10px 50px;
-    background-color: rgb(201, 11, 11);
+    background-color: rgb(250, 11, 97);
     color: white;
     float: left;
     margin: 10px 20px 80px 400px;
@@ -123,7 +126,7 @@ text-align: center;
     text-align: center;
 }
 .last-part h3{
-    color: #BABDBB;
+    color: rgb(226, 226, 228);
 }
 .last-part img{
     height: 50px;
