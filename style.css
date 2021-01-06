@@ -1,0 +1,131 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.menu-bar{
+    width: 100%;
+    padding-top: 20px;
+    
+}
+.menu-bar-1{
+      padding-left: 800px;  
+}
+.menu-bar li{
+        list-style: none;
+        display: inline-block;
+}
+.menu-bar li a{
+        text-decoration: none;
+        color: black;
+        font-size: 18px;
+        font-weight: 500;
+        margin-left: 25px;
+        font-weight: bold;  
+ } 
+.text-color{
+    color: #FF8367
+}
+.first-section h1{
+    font-size: 50px;
+}
+.first-section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 500px;
+    
+}
+.first-section img{
+    width: 100%;
+}
+.btn{
+    font-weight: 700;
+    text-decoration: none;
+   border-radius: 5px;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(201, 11, 11);
+    color: white;
+}
+
+.heading{
+text-align: center;
+}
+
+.project-desgine{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 100%;
+}
+.project-desgine h3{
+    color: black;
+    text-align: center;
+}
+.project-desgine p{
+    color: black;
+    text-align: center;
+}
+.project-desgine a{
+    text-decoration: none;
+}
+.project-desgine img{
+    width: 100%;
+}
+
+#project{
+    height: 700px;
+    background-color: rgb(226, 222, 222);
+    display: block;
+    clear: both;
+}
+
+#inquiry{
+    width: 50%;
+    background-size: 100%;
+    background-position: center;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+    /* text-align: center; */
+    background-repeat: no-repeat;
+    height: 300px;
+    background-image: url(img/Group_33094_1.png);
+ 
+}
+.inquiry-desgine{
+    padding-left: 70px;
+    padding-top: 104px;
+    font-weight: 700;
+    float: left;
+    
+}
+.inquiry-desgine .head-desgine{
+    color: white;
+    font-weight: bold;
+}
+.btn-1{
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(201, 11, 11);
+    color: white;
+    float: left;
+    margin: 10px 20px 80px 400px;
+    margin-top: -39px
+}
+.last-part{
+    text-align: center;
+}
+.last-part h3{
+    color: #BABDBB;
+}
+.last-part img{
+    height: 50px;
+    padding: 5px;
+}
